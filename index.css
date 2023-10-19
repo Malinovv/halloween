@@ -1,3 +1,21 @@
-.bg-secondary {
-  background-color: red !important;
+body {
+  background-image: url(images/halloween_bg.png);
+}
+
+header h1 {
+  font-family: "Jolly Lodger";
+}
+
+header ul {
+  font-family: "Rubik";
+}
+
+button {
+  background-color: #fe772d;
+  width: 10rem;
+  height: 3.5rem;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 15px;
 }
